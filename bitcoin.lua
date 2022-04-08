@@ -6,5 +6,4 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
 
-
 -- if u deobfuscate this ur an skidder and can't make scripts and u have small pen!s
